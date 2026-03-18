@@ -7,18 +7,6 @@ intelligent solution
 
 ------------------------------------------------------------------------
 
-## 📸 Demo
-
-### 🎥 Live Face Recognition in Action
-
-*(Add GIF in assets/demo.gif)*
-
-### 📊 Sample Attendance Output
-
-*(Add image in assets/output.png)*
-
-------------------------------------------------------------------------
-
 ## 🔥 Why This Project Matters
 
 Manual attendance systems are:
